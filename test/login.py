@@ -6,3 +6,4 @@ print("我是啥子"）
 num10 =10
 print("woshishazi")
 print（"分支合并")
+print("我想合并”)
